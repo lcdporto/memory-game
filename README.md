@@ -29,4 +29,13 @@ Software was copied from the original project on Instructables.
 
 ### PCB - Printed Circuit Board
 
+#### Breadboard
+
+Before advancing with the design of the PCB we tested the circuit and software
+using a Breadboard.
+
+See the [breadboard directory](breadboard/).
+
+<img src="breadboard/memory-game_bb.svg"  />
+
 ### Box
