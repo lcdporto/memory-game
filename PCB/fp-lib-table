@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ArduinoDaniel)(type KiCad)(uri "$(KISYSMOD)ArduinoDaniel")(options "")(descr ""))
+)
